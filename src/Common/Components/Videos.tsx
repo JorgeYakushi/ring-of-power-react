@@ -29,7 +29,7 @@ const Videos: FC<playlistResponse> = ({ videos }) => {
               }
               alt={item.snippet.title}
             />
-            <p>{item.snippet.title}</p>
+            <p className="video__title">{item.snippet.title}</p>
             <p>
               {item.snippet.channelTitle} - {item.snippet.publishedAt}
             </p>
