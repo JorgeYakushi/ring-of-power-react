@@ -3,7 +3,7 @@ import Webpages from "./Pages";
 function App() {
   return (
     <div>
-      <p>test</p>
+      <p>test2</p>
       <Webpages />
     </div>
   );
