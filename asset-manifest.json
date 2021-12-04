@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ring-of-power-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ring-of-power-react/static/js/main.9c355d79.chunk.js",
+    "main.js.map": "/ring-of-power-react/static/js/main.9c355d79.chunk.js.map",
+    "runtime-main.js": "/ring-of-power-react/static/js/runtime-main.2f173af6.js",
+    "runtime-main.js.map": "/ring-of-power-react/static/js/runtime-main.2f173af6.js.map",
+    "static/js/2.05513eb6.chunk.js": "/ring-of-power-react/static/js/2.05513eb6.chunk.js",
+    "static/js/2.05513eb6.chunk.js.map": "/ring-of-power-react/static/js/2.05513eb6.chunk.js.map",
+    "static/js/3.e95db3f5.chunk.js": "/ring-of-power-react/static/js/3.e95db3f5.chunk.js",
+    "static/js/3.e95db3f5.chunk.js.map": "/ring-of-power-react/static/js/3.e95db3f5.chunk.js.map",
+    "index.html": "/ring-of-power-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ring-of-power-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.05513eb6.chunk.js.LICENSE.txt": "/ring-of-power-react/static/js/2.05513eb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f173af6.js",
+    "static/js/2.05513eb6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9c355d79.chunk.js"
+  ]
+}
