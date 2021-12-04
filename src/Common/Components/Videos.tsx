@@ -18,6 +18,7 @@ const Videos: FC<playlistResponse> = ({ videos }) => {
       <div className="">
         {videos.items.map((item, index) => (
           <a
+            className="video"
             href={
               "https://www.youtube.com/watch?v=" + item.contentDetails.videoId
             }
